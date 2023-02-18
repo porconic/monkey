@@ -14,9 +14,9 @@
         "payload":
         {
             "background_music":
-            [
+            {
                 "music/track.mp3",
-            ],
+            }
             
             "wallpaper":
             {
